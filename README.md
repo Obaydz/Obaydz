@@ -55,6 +55,20 @@ me = Obayd()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+---
+ 
+
+📊 A Little Peek at Me
+
+ <div align="center"> 
+
+
+
+ </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Obaydz&theme=tokyo-night&hide_border=true" width="90%" /> </div> 
+
+These badges pull live from GitHub's own API, so they're rock-solid. The activity graph runs on a free Vercel instance — if it ever fails to load, just refresh.
+
+
 
 ---
 
@@ -63,8 +77,8 @@ me = Obayd()
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obaydzm/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oubeidallah-zmander/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oubeidallahzmander@gmail,com)
 
 </div>
 
