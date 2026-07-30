@@ -66,7 +66,6 @@ me = Obayd()
 
  </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Obaydz&theme=tokyo-night&hide_border=true" width="90%" /> </div> 
 
-These badges pull live from GitHub's own API, so they're rock-solid. The activity graph runs on a free Vercel instance — if it ever fails to load, just refresh.
 
 
 
