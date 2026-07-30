@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Obayd+%F0%9F%91%8B;Server+%26+Web+Developer+%E2%9A%99%EF%B8%8F;Building+%22The+Hard+Play%22+%F0%9F%9A%80;IT+Student+from+Sfax%2C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Obayd+%F0%9F%91%8B;Server+%26+Web+Developer+%E2%9A%99%EF%B8%8F;Building+%22The+Hard+Play%22+%F0%9F%9A%80;IT+Student+from+Tunisia%2C+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### 🧭 About Me
 
-- 🎓 3rd-year IT student in **Sfax, Tunisia**
+- 🎓 3rd-year IT student in **Tunisia**
 - 🛠️ Building a freelance business in **server management** & **web development** for small businesses
 - 👨‍🏫 I teach **Blender, Symfony, PHP & Python** through club sessions
 - 🔁 Restarting after building & running a hosting platform for 3 years at age 16 — lessons learned, better systems this time
