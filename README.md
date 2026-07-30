@@ -60,14 +60,7 @@ me = Obayd()
 
 ### 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Obaydz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaydz&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Obaydz&theme=tokyonight&hide_border=true" />
-</div>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Obaydz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaydz&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=Obaydz&theme=tokyonight&hide_border=true" /> </div>
 
 ---
 
